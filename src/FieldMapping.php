@@ -1,6 +1,6 @@
 <?php
 
-namespace ArtisanSdk\Support\Contract;
+namespace ArtisanSdk\Contract;
 
 interface FieldMapping
 {
