@@ -26,3 +26,4 @@ Homestead.json
 Homestead.yaml
 Thumbs.db
 yarn-error.log
+.phpunit.result.cache
